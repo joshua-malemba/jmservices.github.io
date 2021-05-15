@@ -1,10 +1,11 @@
 <!DOCTYPE html>
+<!-- Created By CodingNepal -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JMServices</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>JMServices.IO</title>
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
@@ -31,7 +32,7 @@
     </nav>
 
     <!-- home section start -->
-    <section class="home" id="home" style="background-image: url('images/home.jpg');">
+    <section class="home" id="home">
       <div class="max-width">
           <div class="row">
             <div class="home-content">
@@ -146,7 +147,6 @@
         <span>Developed By JMServices </a> | <span class="far fa-copyright"></span> 2021 All rights reserved.</span>
     </footer>
 
-    <script src="js/script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
-
